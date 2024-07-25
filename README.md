@@ -23,6 +23,7 @@ This repository contains lab exercises for a Networking course. The labs are des
 7. **[Lab 7: Access Control List (ACL)](lab7)**
 8. **[Lab 8: VLAN Configuration](lab8)**
 
+
 ## Lab Descriptions
 
 ### Lab 1: Cabling
@@ -57,5 +58,3 @@ To use the labs in this repository, you need to have Cisco Packet Tracer install
 # Clone the repository
 git clone https://github.com/PrashantAcharya0/Networking.git
 
-# Navigate into the directory
-cd networking-lab
