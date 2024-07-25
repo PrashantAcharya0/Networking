@@ -5,6 +5,7 @@ This repository contains lab exercises for a Networking course. The labs are des
 ## Table of Contents
 
 - [Lab Overview](#lab-overview)
+- [Directory structure](#Directory-structure)
 - [Lab Descriptions](#lab-descriptions)
 - [Installation](#installation)
 
@@ -20,6 +21,29 @@ This repository contains lab exercises for a Networking course. The labs are des
 7. **[Lab 7: Access Control List (ACL)](lab7)**
 8. **[Lab 8: VLAN Configuration](lab8)**
 
+# Directory structure
+Networking/
+├── lab2/
+│   ├── lab2.pkt
+│   ├── lab2.png
+├── lab3/
+│   ├── lab3.pkt
+│   ├── lab3.png
+├── lab4/
+│   ├── lab4.pkt
+│   ├── lab4.png
+├── lab5/
+│   ├── lab5.pkt
+│   ├── lab5.png
+├── lab6/
+│   ├── lab6.pkt
+│   ├── lab6.png
+├── lab7/
+│   ├── lab7.pkt
+│   ├── lab7.png
+├── lab8/
+│   ├── lab8.pkt
+│   ├── lab8.png
 
 ## Lab Descriptions
 
