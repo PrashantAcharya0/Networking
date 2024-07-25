@@ -7,10 +7,7 @@ This repository contains lab exercises for a Networking course. The labs are des
 - [Lab Overview](#lab-overview)
 - [Lab Descriptions](#lab-descriptions)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Lab Overview
 
