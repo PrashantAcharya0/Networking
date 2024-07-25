@@ -22,6 +22,7 @@ This repository contains lab exercises for a Networking course. The labs are des
 8. **[Lab 8: VLAN Configuration](lab8)**
 
 # Directory structure
+```
 Networking/
 ├── lab2/
 │   ├── lab2.pkt
@@ -44,6 +45,7 @@ Networking/
 ├── lab8/
 │   ├── lab8.pkt
 │   ├── lab8.png
+```
 
 ## Lab Descriptions
 
